@@ -1,4 +1,4 @@
-# The Eel
+# The Eel 2
 
 Jeu Snake fluide en JavaScript avec Canvas HTML5, inspiré du Snake Google. Deuxième version de The Eel, originalement fait en Python.
 
@@ -28,15 +28,6 @@ Ou simplement double-cliquer sur le fichier `index.html` pour jouer immédiateme
   - `GameState.js` - Gestion des états du jeu
   - `main.js` - Point d'entrée principal
   - `images/` - Dossier pour les ressources graphiques
-
-## Prérequis
-- Un navigateur web moderne supportant HTML5 Canvas
-- Aucune installation requise
-
-## Personnalisation
-### Images personnalisées
-Placez vos images dans `the-eel-2/images/` :
-- `food.svg` ou `food.png` - Image de la nourriture (55x55px recommandé)
 
 ## Contrôles
 - Flèches directionnelles pour diriger l'anguille
